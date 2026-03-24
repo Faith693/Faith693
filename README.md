@@ -9,7 +9,7 @@ I am an HR Analytics professional with a background in document control and admi
 ## 🔧 Skills & Tools
 - Excel (Advanced formulas, Pivot Tables, Dashboards)
 - Power BI (Interactive dashboards)
-- Sql
+- Sql (Data querying and analysis)
 - Data Cleaning & Transformation
 - HR Metrics & Analysis
 
@@ -30,6 +30,11 @@ I am an HR Analytics professional with a background in document control and admi
 - Evaluated hiring efficiency
 - Analyzed time-to-hire and candidate trends
 
+### 📌 Performance Analysis 
+- analyzed employee performance metrics, trends, and insights.
+
+- ### 📌 Salary Analysis
+- 
 ---
 
 ## 📌 What I Bring
