@@ -28,7 +28,9 @@ I am an HR Analytics professional with a background in document control and admi
 
 ### 📌 Recruitment Analysis
 - Evaluated hiring efficiency
-- Analyzed time-to-hire and candidate trends
+- Analyzed time-to-hire and candidate trends  
+
+🔗 [View Project](https://github.com/Faith693/Recruitment-Funnel-Analysis)
 
 ### 📌 Employee Performance Analysis
 - Analyzed employee performance ratings across departments
