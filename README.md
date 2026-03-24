@@ -30,11 +30,15 @@ I am an HR Analytics professional with a background in document control and admi
 - Evaluated hiring efficiency
 - Analyzed time-to-hire and candidate trends
 
-### 📌 Performance Analysis 
-- analyzed employee performance metrics, trends, and insights.
+### 📌 Employee Performance Analysis
+- Analyzed employee performance ratings across departments
+- Identified high and low-performing groups
+- Explored factors influencing performance
 
-- ### 📌 Salary Analysis
-- 
+### 📌 Salary & Compensation Analysis
+- Analyzed salary distribution across roles and departments
+- Identified potential pay gaps
+- Evaluated fairness in compensation structure
 ---
 
 ## 📌 What I Bring
