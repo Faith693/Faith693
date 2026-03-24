@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Faith Yakubu
 
-<!--
-**Faith693/Faith693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 HR Analytics Professional | Data Analyst
 
-Here are some ideas to get you started:
+I am an HR Analytics professional with a background in document control and administration. I specialize in transforming HR data into insights that support better workforce decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- Excel (Advanced formulas, Pivot Tables, Dashboards)
+- Power BI (Interactive dashboards)
+- Sql
+- Data Cleaning & Transformation
+- HR Metrics & Analysis
+
+---
+
+## 📊 Featured Projects
+
+### 📌 Employee Attrition Analysis
+- Analyzed employee turnover patterns
+- Built a Power BI dashboard
+- Identified key drivers of attrition
+
+### 📌 HR Dashboard
+- Developed a workforce overview dashboard
+- Visualized headcount, gender, and department insights
+
+### 📌 Recruitment Analysis
+- Evaluated hiring efficiency
+- Analyzed time-to-hire and candidate trends
+
+---
+
+## 📌 What I Bring
+- Strong attention to detail
+- Data-driven decision-making
+- Experience in data management and reporting
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/faith-yakubu-358400196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
