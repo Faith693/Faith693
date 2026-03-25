@@ -42,6 +42,12 @@ I am an HR Analytics professional with a background in document control and admi
 - Analyzed salary distribution across roles and departments
 - Identified potential pay gaps
 - Evaluated fairness in compensation structure
+
+- ### 📌 Employee Absenteeism Analysis
+- Analyzed absenteeism trends and cost impact
+- Identified key drivers of employee absence  
+
+🔗 **Project Link:** [View on GitHub](https://github.com/Faith693/employee-absenteeism-analysis)
 ---
 
 ## 📌 What I Bring
