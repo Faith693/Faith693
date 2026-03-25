@@ -33,9 +33,10 @@ I am an HR Analytics professional with a background in document control and admi
 🔗 [View Project](https://github.com/Faith693/Recruitment-Funnel-Analysis)
 
 ### 📌 Employee Performance Analysis
-- Analyzed employee performance ratings across departments
-- Identified high and low-performing groups
-- Explored factors influencing performance
+- Analyzed employee performance, training, and satisfaction metrics
+- Identified key drivers of workforce productivity  
+
+🔗 **Project Link:** [View on GitHub](https://github.com/Faith693/employee-performance-analysis)
 
 ### 📌 Salary & Compensation Analysis
 - Analyzed salary distribution across roles and departments
