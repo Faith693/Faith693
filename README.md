@@ -18,9 +18,10 @@ I am an HR Analytics professional with a background in document control and admi
 ## 📊 Featured Projects
 
 ### 📌 Employee Attrition Analysis
-- Analyzed employee turnover patterns
-- Built a Power BI dashboard
-- Identified key drivers of attrition
+- Analyzed employee turnover and retention drivers
+- Identified high-risk employee groups and key attrition factors  
+
+🔗 **Project Link:** [View on GitHub](https://github.com/Faith693/employee-attrition-analysis)
 
 ### 📌 HR Dashboard
 - Developed a workforce overview dashboard
